@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Web Devlopment Course",
+    "photo":  "./images/webdev.jpeg",
+    "price" : 5500,
+    "ratings" : 4.4,
+    "classTime" : "10am to 2pm",
+    "author": {"name": "Jhankar Mahbub", "profession": "Web Devloper"}
+  },
+  {
+    "id": 2,
+    "name": "Data Analytics Course",
+    "photo":  "./images/dataanalytics.png",
+    "price" : 6000,
+    "ratings" : 4.0,
+    "classTime" : "12am to 4pm",
+    "author": {"name": "Shohag Hasan", "profession": "Data Analytics"}
+  },
+  {
+    "id": 3,
+    "name": "Mechine Learning Course",
+    "photo":  "./images/mechineLerning.jpg",
+    "price" : 4500,
+    "ratings" : 4.2,
+    "classTime" : "10am to 2pm",
+    "author": {"name": "Farhan Ahmed", "profession": "Web Devloper"}
+  },
+  {
+    "id": 4,
+    "name": "Digital Marketing Course",
+    "photo":  "./images/digital-markting.jpg",
+    "price" : 4500,
+    "ratings" : 4.9,
+    "classTime" : "10am to 2pm",
+    "author": {"name": "Muntasir Mahadi", "profession": "Digital Marketer"}
+  },
+  {
+    "id": 5,
+    "name": "App Devlopment Course",
+    "photo":  "./images/",
+    "price" : 6500,
+    "ratings" : 4.4,
+    "classTime" : "3pm to 7pm",
+    "author": {"name": "Sumit Shah", "profession": "App Devloper"}
+  },
+  {
+    "id": 6,
+    "name": "Graphic Design Course",
+    "photo":  "./images/grafick.webp",
+    "price" : 7500,
+    "ratings" : 4.7,
+    "classTime" : "10am to 2pm",
+    "author": {"name": "Anisul Islam", "profession": "Graphic Designer"}
+  },
+]
