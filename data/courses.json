@@ -6,7 +6,7 @@
     "price" : 59,
     "ratings" : 4.4,
     "classTime" : "10am to 2pm",
-    "author": {"name": "Jhankar Mahbub", "profession": "Web Devloper"},
+    "author": {"name": "Jhankar Mahbub", "proffesion": "Web Devloper"},
     "description" : "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development."
   },
   {
@@ -16,7 +16,7 @@
     "price" : 99,
     "ratings" : 4.0,
     "classTime" : "12am to 4pm",
-    "author": {"name": "Shohag Hasan", "profession": "Data Analytics"},
+    "author": {"name": "Shohag Hasan", "proffesion": "Data Analytics"},
     "description" : "Data analytics is the science of analyzing raw data to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into mechanical processes and algorithms that work over raw data for human consumption."
   },
   {
@@ -26,7 +26,7 @@
     "price" : 65,
     "ratings" : 4.2,
     "classTime" : "10am to 2pm",
-    "author": {"name": "Farhan Ahmed", "profession": "Web Devloper"},
+    "author": {"name": "Farhan Ahmed", "proffesion": "Web Devloper"},
     "description" : "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
   },
   {
@@ -36,7 +36,7 @@
     "price" : 90,
     "ratings" : 4.9,
     "classTime" : "10am to 2pm",
-    "author": {"name": "Muntasir Mahadi", "profession": "Digital Marketer"},
+    "author": {"name": "Muntasir Mahadi", "proffesion": "Digital Marketer"},
     "description" : "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.Essentially, if a marketing campaign involves digital communication, it's digital marketing."
   },
   {
@@ -46,7 +46,7 @@
     "price" : 75,
     "ratings" : 4.4,
     "classTime" : "3pm to 7pm",
-    "author": {"name": "Sumit Shah", "profession": "App Devloper"},
+    "author": {"name": "Sumit Shah", "proffesion": "App Devloper"},
     "description" : "Application development is the process of creating software that supports a business function. It consists of tasks relating to each of the seven stages of the application lifecycle. This starts with planning and gathering business requirements; continues with designing, development, testing, and deployment; and ends with the maintenance of your finished software application."
   },
   {
@@ -56,7 +56,7 @@
     "price" : 100,
     "ratings" : 4.7,
     "classTime" : "10am to 2pm",
-    "author": {"name": "Anisul Islam", "profession": "Graphic Designer"},
+    "author": {"name": "Anisul Islam", "proffesion": "Graphic Designer"},
     "description" : "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users’ specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience."
   }
 ]
